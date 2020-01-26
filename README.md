@@ -8,4 +8,4 @@ We can use this app for other cities of the world by changing the "location" par
 
 Also, we can change the format of the data to be "xml" as per our requirement.
 
-Example => (for NewYork City)  https://weather-ydn-yql.media.yahoo.com/forecastrss?location=NewYork&format=xml
+Example => (for Delhi City)  https://weather-ydn-yql.media.yahoo.com/forecastrss?location=Delhi&format=xml
