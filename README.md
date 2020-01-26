@@ -1,6 +1,6 @@
 <h2>Weather-App</h2>
 
-I used Yahoo's Weather API to print the sunrise time in the city of Mumbai.
+I used Yahoo's Weather API to print the sunrise time in the city of Mumbai in console.
 
 The API EndPoint is => https://weather-ydn-yql.media.yahoo.com/forecastrss?location=mumbai&format=json .
 
